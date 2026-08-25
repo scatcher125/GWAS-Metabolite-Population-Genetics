@@ -1,2 +1,3 @@
-# GWAS-Metabolite-Population-Genetics
-Population genomics of metabolic traits and Type 2 Diabetes. Analysis steps include GWAS meta-analysis and harmonization, genetic correlation and heritability, lead variant identification, fine-mapping with missense annotation, eQTL colocalization, as well as genome-wide and cis-Mendelian randomization.
+# GWAS Metabolite Population Genetics
+
+Population genomics study assessing the association of two metabolic traits - Branched chain amino acids and Glucose - with Type 2 Diabetes. Analysis steps include GWAS meta-analysis and harmonization, genetic correlation and heritability, lead variant identification, fine-mapping with missense annotation, eQTL colocalization, as well as genome-wide and cis-Mendelian randomization.
