@@ -1,2 +1,2 @@
 # GWAS-Metabolite-Population-Genetics
-GWAS meta-analysis of metabolites and T2D; includes harmonization, genetic correlation, fine-mapping, eQTL colocalization, and Mendelian randomization.
+Population genomics of metabolic traits and Type 2 Diabetes. Analysis steps include GWAS meta-analysis and harmonization, genetic correlation and heritability, lead variant identification, fine-mapping with missense annotation, eQTL colocalization, as well as genome-wide and cis-Mendelian randomization.
